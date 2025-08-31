@@ -1,0 +1,65 @@
+CustomerID,FirstName,LastName,Email,RegistrationDate,Country,City,TotalSpent,Currency,Age,PhoneNumber,LastLoginDate,LastLoginDate_missing,Age_missing
+cust001,david,okello,david.okello@email.com,2022-01-15,uganda,kampala,150000.0,ugx,34.0,2567721234560,2025-08-20 00:00:00,0,0
+cust002,esther,wanjiku,esther.w@email.com,,kenya,nairobi,5500.0,kes,28.0,07123456780,2025-08-21 00:00:00,0,0
+cust004,fatuma,juma,fatuma.juma@work.net,2022-04-10,tanzania,dar es salaam,80000.0,tzs,31.0,2557551234560,2025-07-15 00:00:00,0,0
+cust005,david,okello,david.okello@email.com,2022-05-12,ug,kla,75000.0,shs,34.0,07721234560,Missing,1,0
+cust007,john,ochieng,john.ochieng@mail,,ke,niarobi,2500.0,ksh,50.0,2547221234560,Missing,1,0
+cust009,bob,kato,bob@email.com,2023-05-15,uganda,kmapala,95000.0,ugx,150.0,2567521234560,2025-08-18 00:00:00,0,0
+cust010,linda,achieng,linda.a@email.com,2023-06-20,kenya,nrb,386899.99999999814,kes,41.0,07222222220,Missing,1,0
+cust012,mary,kimani,mary.k@email,2023-08-11,kenya,nairobi,6200.0,kes,25.0,07111111110,Missing,1,0
+cust013,chris,byamukama,chris.b@email.com,2023-09-14,ug,mbarara,30000.0,unknown,40.0,07771234560,2025-08-24 00:00:00,0,0
+cust014,sarah,njoroge,sarah.n@email.com,2024-10-30,ke,nairobi,12000.0,ksh,33.0,07331234560,Missing,1,0
+cust016,grace,mutesi,grace.m@mail.com,2024-12-01,rwanda,kigali,40000.0,-5,34333031216.900925,,Missing,1,0
+cust018,lisa,auma,lisa.auma,2025-02-25,uganda,gulu,85000.0,shs,39.0,07881234560,Missing,1,0
+cust022,rebecca,mwangi,rebecca.m,2025-06-30,kenya,nairobi,1500.0,kes,23.0,07151234560,Missing,1,0
+cust024,andrew,kariuki,andrew.k@email.com,2025-08-01,kenya,nairobi,22000.0,kes,48.0,07241234560,2025-08-19 00:00:00,0,0
+cust026,daniel,bakari,daniel.b@email.com,2022-01-16,tanzania,dar es salaam,90000.0,tzs,30.0,2557181234560,2025-08-23 00:00:00,0,0
+cust027,sophia,waweru,sophia.w@email.com,2022-02-21,kenya,nairobi,8800.0,ksh,29.0,07251234560,Missing,1,0
+cust029,brenda,onyango,brenda.o@work.net,2022-04-11,ke,kisumu,4800.0,kes,33.0,07261234560,Missing,1,0
+cust030,william,kasumba,william.k@email.com,2022-05-13,uganda,kampala,180000.0,ugx,36.0,07741234560,2025-08-21 00:00:00,0,0
+cust031,isabella,musoke,isabella.m@email.com,2022-01-15,ug,kla,220000.0,ugx,34.0,07811234560,2025-08-20 00:00:00,0,0
+cust032,james,otieno,james.o@email.com,2022-02-20,kenya,nairobi,15000.0,kes,27.0,07131234560,Missing,1,0
+cust034,ethan,maina,ethan.maina@work.net,2022-04-10,kenya,nairobi,6500.0,kes,31.0,07341234560,Missing,1,0
+cust035,oliver,ssempijja,oliver.s@email.com,2022-05-12,uganda,kmapala,92000.0,ugx,37.0,07731234560,2025-08-19 00:00:00,0,0
+cust036,amelia,massawe,amelia.m@email.com,2023-01-18,tanzania,arusha,110000.0,tzs,21.0,2557561234560,2025-08-18 00:00:00,0,0
+cust037,benjamin,mutai,benjamin-m@mail,2023-02-22,ke,eldoret,3000.0,ksh,51.0,07181234560,Missing,1,0
+cust039,lucas,keita,lucas.k@email.com,2023-05-15,rwanda,kigali,200.0,$,43.0,2507331234560,Missing,1,0
+cust040,harper,abdi,harper.a@email.com,2023-06-20,kenya,mombasa,9500.0,kes,40.0,07011234560,2025-08-25 00:00:00,0,0
+cust042,evelyn,nassali,evelyn.n@email,2023-08-11,uganda,kampala,115000.0,ugx,24.0,07541234560,2025-08-24 00:00:00,0,0
+cust043,logan,mwangi,logan.m@email.com,2023-09-14,kenya,nairobi,5000.0,kes,34.0,07271234560,Missing,1,0
+cust044,abigail,tesha,abigail.t@email.com,2024-10-30,tanzania,dar es salaam,250000.0,tzs,32.0,2557171234560,2025-08-23 00:00:00,0,0
+cust046,sheila,akinyi,sheila.a@mail.com,2024-12-01,kenya,kisumu,4200.0,kes,29.0,07021234560,2025-08-22 00:00:00,0,0
+cust048,victoria,waithera,vicky.w,2025-02-25,kenya,nairobi,6800.0,kes,38.0,07281234560,2025-08-21 00:00:00,0,0
+cust051,samuel,were,sam.w@email.com,2022-01-15,kenya,nairobi,9800.0,kes,35.0,07291234560,2025-08-20 00:00:00,0,0
+cust052,faith,nabiryo,faith.n@email.com,2022-02-20,uganda,jinja,48000.0,ugx,28.0,07781234560,Missing,1,0
+cust054,pauline,anyango,pauline.a@work.net,2022-04-10,kenya,kisumu,4600.0,kes,31.0,07031234560,Missing,1,0
+cust055,dennis,mwanje,dennis.m@email.com,2022-05-12,ug,kla,88000.0,shs,35.0,07851234560,2025-08-19 00:00:00,0,0
+cust056,joy,mboya,joy.mboya@email.com,2023-01-18,tanzania,dar es salaam,130000.0,tzs,22.0,2557571234560,Missing,1,0
+cust057,geoffrey,ouma,geoffrey.o@mail,2023-02-22,kenya,mombasa,7200.0,kes,50.0,07041234560,2025-08-22 00:00:00,0,0
+cust059,eric,sentamu,eric@email.com,2023-05-15,uganda,kmapala,99000.0,ugx,250.0,07561234560,2025-08-18 00:00:00,0,0
+cust060,irene,wanjala,irene.w@email.com,2023-06-20,kenya,nairobi,6300.0,kes,41.0,07161234560,Missing,1,0
+cust062,rachel,mbabazi,rachel.m@email,2023-08-11,rwanda,kigali,197.262,$,25.0,2507371234560,Missing,1,0
+cust063,abdul,karim,abdul.k@email.com,2023-09-14,tanzania,dar es salaam,155000.0,unknown,40.0,2557191234560,2025-08-24 00:00:00,0,0
+cust064,victor,munyao,victor.m@email.com,2024-10-30,ke,nairobi,13500.0,ksh,33.0,07371234560,Missing,1,0
+cust066,ian,katende,ian.k@mail.com,2024-12-01,uganda,kampala,210000.0,ugx,26.0,07791234560,Missing,1,0
+cust068,edwin,lwanga,edwin.lwanga,2025-02-25,uganda,jinja,58000.0,shs,39.0,07891234560,Missing,1,0
+cust070,patience,kansiime,patience.k@email.com,2025-04-18,ug,mbarara,72000.0,ugx,31.0,07571234560,Missing,1,0
+cust072,beatrice,auma,beatrice.a,2025-06-30,uganda,gulu,82000.0,ugx,23.0,07751234560,Missing,1,0
+cust074,gerald,kimathi,gerald.k@email.com,2025-08-01,kenya,nairobi,18000.0,kes,48.0,07381234560,2025-08-19 00:00:00,0,0
+cust076,calvin,khamisi,calvin.k@email.com,2022-01-16,tanzania,dar es salaam,98000.0,tzs,30.0,2557161234560,2025-08-23 00:00:00,0,0
+cust077,tracy,gitau,tracy.g@email.com,2022-02-21,kenya,nairobi,9100.0,ksh,29.0,07231234560,Missing,1,0
+cust079,damaris,wangui,damaris.w@work.net,2022-04-11,ke,nairobi,5300.0,kes,33.0,07141234560,Missing,1,0
+cust080,simon,ouma,simon.o@email.com,2022-05-13,kenya,nairobi,14000.0,kes,36.0,07391234560,2025-08-21 00:00:00,0,0
+cust081,naomi,akello,naomi.a@email.com,2022-01-15,uganda,gulu,89000.0,ugx,34.0,07711234560,2025-08-20 00:00:00,0,0
+cust082,vincent,koech,vincent.k@email.com,2022-02-20,kenya,eldoret,4100.0,kes,27.0,07061234560,Missing,1,0
+cust084,isaac,shija,isaac.s@work.net,2022-04-10,tanzania,dar es salaam,125000.0,tzs,31.0,2557591234560,Missing,1,0
+cust085,sharon,adhiambo,sharon.a@email.com,2022-05-12,kenya,kisumu,5600.0,kes,37.0,07071234560,2025-08-19 00:00:00,0,0
+cust086,phillip,mboya,phillip.m@email.com,2023-01-18,tanzania,arusha,105000.0,tzs,21.0,2557111234560,2025-08-18 00:00:00,0,0
+cust087,judith,gashumba,judith-g@mail,2023-02-22,rwanda,kigali,260.0,$,51.0,2507811234560,Missing,1,0
+cust089,hilda,nakibuule,hilda.n@email.com,2023-05-15,uganda,kmapala,94000.0,ugx,43.0,07591234560,Missing,1,0
+cust090,lucy,onyango,lucy.o@email.com,2023-06-20,kenya,nairobi,6600.0,ksh,40.0,07121234560,2025-08-25 00:00:00,0,0
+cust092,nancy,mumbi,nancy.m@email,2023-08-11,kenya,nairobi,5900.0,kes,24.0,07311234560,2025-08-24 00:00:00,0,0
+cust093,stanley,kato,stanley.k@email.com,2023-09-14,uganda,kla,81000.0,unknown,29.0,07821234560,Missing,1,0
+cust094,rose,akinyi,rose.a@email.com,2024-10-30,kenya,kisumu,4400.0,kes,32.0,07081234560,2025-08-23 00:00:00,0,0
+cust096,hellen,chepkwemoi,hellen.c@mail.com,2024-12-01,kenya,eldoret,3900.0,ksh,29.0,07111234560,2025-08-22 00:00:00,0,0
+cust098,vivian,wachira,vivian.w,2025-02-25,kenya,nairobi,7100.0,kes,38.0,07261234560,2025-08-21 00:00:00,0,0

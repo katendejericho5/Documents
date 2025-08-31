@@ -1,0 +1,104 @@
+CustomerID,FirstName,LastName,Email,RegistrationDate,Country,City,TotalSpent,Currency,Age,PhoneNumber,LastLoginDate
+CUST001, david ,Okello,david.okello@email.com,15/01/2022,Uganda,Kampala,150000,UGX,34,+256772123456,20/08/2025
+CUST002,Esther,Wanjiku,esther.w@email.com,2022-02-20,Kenya,Nairobi,5500,KES,28,0712345678,21/08/2025
+CUST003,peter,Mugisha,peter.m@email,Mar 05, 2022,Rwanda,Kigali,350,$,45,250788123456,
+CUST004,Fatuma,Juma,fatuma.juma@work.net,10/04/2022,Tanzania,Dar es Salaam,80000,TZS,31,+255755123456,15/07/2025
+CUST005,DAVID,OKELLO,david.okello@email.com,12/05/2022,UG,Kla,75000,Shs,34,772123456,
+CUST001, david ,Okello,david.okello@email.com,15/01/2022,Uganda,Kampala,150000,UGX,34,+256772123456,20/08/2025
+CUST006,susan,Nankya,,18/01/2023,Uganda,Entebbe,250000,UGX,22,0782123456,19/08/2025
+CUST007,john,Ochieng,john.ochieng@mail,2023-02-22,KE,Niarobi,2500,Ksh,50,+254722123456,
+CUST008,Alice,Uwase,alice.u@email.com,Apr 10, 2023,Rwanda,Kigali,-5000,RWF,29,0788888888,22/08/2025
+CUST009,bob,Kato,bob@email.com,15/05/2023,uganda,Kmapala,95000,UGX,150,256752123456,18/08/2025
+CUST010,linda,Achieng,linda.a@email.com,20/06/2023,Kenya,Nrb,1250000,KES,41,722222222,
+CUST011, emmanuel ,Bwire,emmanuel.b@email.com,Jul 01, 2023,Uganda,Jinja,45000,UGX,38,0701123456,25/08/2025
+CUST012,mary,Kimani,mary.k@email,11/08/2023,Kenya,Nairobi,6200,KES,25,0711111111,
+CUST013,chris,Byamukama,chris.b@email.com,14/09/2023,UG,Mbarara,30000,,40,0777123456,24/08/2025
+CUST014,SARAH,Njoroge,sarah.n@email.com,30/10/2024,KE,Nairobi,12000,Ksh,33,0733123456,
+CUST015,kevin,Ouma,kevin.ouma@email.com,Nov 15, 2024,Kenya,Mombasa,7500,KES,27,700123456,23/08/2025
+CUST016,grace,Mutesi,grace.m@mail.com,01/12/2024,Rwanda,Kigali,40000,-5,250789123456,
+CUST017,jason,Lema,jason.lema@email.com,Jan 20, 2025,Tanzania,Arusha,120000,TZS,42,+255713123456,22/08/2025
+CUST018,lisa,Auma,lisa.auma,25/02/2025,Uganda,Gulu,85000,Shs,39,0788123456,
+CUST019,Mark,Kamau,mark.k@email.com,Mar 10, 2025,Kenya,Nrb,4500,KES,26,0721123456,21/08/2025
+CUST020,  cust020,Mercy,Chebet,mercy.c@email.com,18/04/2025,KE,Eldoret,3200,Ksh,31,0723123456,
+CUST021,Brian,Kibirige,brian.k@email.com,May 05, 2025,Uganda,Kampala,320000,UGX,55,752123456,25/08/2025
+CUST022,rebecca,Mwangi,rebecca.m,30/06/2025,Kenya,Nairobi,1500,KES,23,0715123456,
+CUST023,jessica,Habimana,jessica.h@email.com,Jul 12, 2025,Rwanda,Kigali,250,USD,,0789123456,20/08/2025
+CUST024,andrew,Kariuki,andrew.k@email.com,01/08/2025,Kenya,Nairobi,22000,KES,48,724123456,19/08/2025
+CUST025,olivia,Namubiru,olivia.n@email.com,Aug 15, 2025,UG,Entebbe,95000,Shs,36,0776123456,
+CUST026,daniel,Bakari,daniel.b@email.com,16/01/2022,Tanzania,Dar es Salaam,90000,TZS,30,+255718123456,23/08/2025
+CUST027,sophia,Waweru,sophia.w@email.com,21/02/2022,Kenya,Nairobi,8800,Ksh,29,0725123456,
+CUST028,matthew,Gatete,matthew.g@email,Mar 06, 2022,Rwanda,Kigali,150,$,46,250787123456,24/08/2025
+CUST029,brenda,Onyango,brenda.o@work.net,11/04/2022,KE,Kisumu,4800,KES,33,0726123456,
+CUST030,WILLIAM,Kasumba,william.k@email.com,13/05/2022,Uganda,Kampala,180000,UGX,36,774123456,21/08/2025
+CUST031,isabella,Musoke,isabella.m@email.com,15/01/2022,UG,Kla,220000,UGX,34,0781123456,20/08/2025
+CUST032,james,Otieno,james.o@email.com,20/02/2022,Kenya,Nairobi,15000,KES,27,0713123456,
+CUST033,sandra,Ngobi,sandra.ngobi@email,Mar 05, 2022,Uganda,Jinja,55000,Shs,44,0753123456,15/07/2025
+CUST034,ethan,Maina,ethan.maina@work.net,10/04/2022,Kenya,Nairobi,6500,KES,31,0734123456,
+CUST035,oliver,Ssempijja,oliver.s@email.com,12/05/2022,UGANDA,Kmapala,92000,UGX,37,0773123456,19/08/2025
+CUST010,linda,Achieng,linda.a@email.com,20/06/2023,Kenya,Nrb,1250000,KES,41,722222222,
+CUST036,amelia,Massawe,amelia.m@email.com,18/01/2023,Tanzania,Arusha,110000,TZS,21,+255756123456,18/08/2025
+CUST037,benjamin,Mutai,benjamin-m@mail,22/02/2023,KE,Eldoret,3000,Ksh,51,0718123456,
+CUST038,charlotte,Tumwine,charlotte.t@email.com,Apr 10, 2023,Uganda,Mbarara,70000,UGX,28,0783123456,22/08/2025
+CUST039,lucas,Keita,lucas.k@email.com,15/05/2023,Rwanda,Kigali,200,$,43,250733123456,
+CUST040,harper,Abdi,harper.a@email.com,20/06/2023,Kenya,Mombasa,9500,KES,40,0701123456,25/08/2025
+CUST041,henry,Kagame,henry.k@email.com,Jul 01, 2023,Rwanda,Kigali,300,USD,37,0785123456,
+CUST042,evelyn,Nassali,evelyn.n@email,11/08/2023,Uganda,Kampala,115000,UGX,24,0754123456,24/08/2025
+CUST043,logan,Mwangi,logan.m@email.com,14/09/2023,Kenya,Nairobi,5000,KES,,0727123456,
+CUST044,abigail,Tesha,abigail.t@email.com,30/10/2024,Tanzania,Dar es Salaam,250000,TZS,32,+255717123456,23/08/2025
+CUST045,alexander,Kimani,alex.k@email.com,Nov 15, 2024,KE,Nairobi,8000,Ksh,26,0735123456,
+CUST046,sheila,Akinyi,sheila.a@mail.com,01/12/2024,Kenya,Kisumu,4200,KES,29,0702123456,22/08/2025
+CUST047,sebastian,Mwebe,seb.m@email.com,Jan 20, 2025,Uganda,Kampala,195000,UGX,41,0784123456,
+CUST048,victoria,Waithera,vicky.w,25/02/2025,Kenya,Nairobi,6800,KES,38,0728123456,21/08/2025
+CUST049,joseph,Kipkirui,joseph.k@email.com,Mar 10, 2025,KE,Eldoret,3400,Ksh,25,0719123456,
+CUST050,  cust050,grace,Nakato,grace.n@email.com,18/04/2025,Uganda,Masaka,65000,Shs,30,0755123456,25/08/2025
+CUST051,samuel,Were,sam.w@email.com,15/01/2022,Kenya,Nairobi,9800,KES,35,0729123456,20/08/2025
+CUST052,faith,Nabiryo,faith.n@email.com,20/02/2022,Uganda,Jinja,48000,UGX,28,0778123456,
+CUST053,moses,Githinji,moses.g@email,Mar 05, 2022,KE,Nairobi,5200,Ksh,45,0736123456,15/07/2025
+CUST054,pauline,Anyango,pauline.a@work.net,10/04/2022,Kenya,Kisumu,4600,KES,31,0703123456,
+CUST055,DENNIS,Mwanje,dennis.m@email.com,12/05/2022,UG,Kla,88000,Shs,35,0785123456,19/08/2025
+CUST056,joy,Mboya,joy.mboya@email.com,18/01/2023,Tanzania,Dar es Salaam,130000,TZS,22,+255757123456,
+CUST057,geoffrey,Ouma,geoffrey.o@mail,22/02/2023,Kenya,Mombasa,7200,KES,50,0704123456,22/08/2025
+CUST058,cynthia,Ingabire,cynthia.i@email.com,Apr 10, 2023,Rwanda,Kigali,280,USD,29,250786123456,
+CUST059,eric,Sentamu,eric@email.com,15/05/2023,uganda,Kmapala,99000,UGX,250,0756123456,18/08/2025
+CUST060,irene,Wanjala,irene.w@email.com,20/06/2023,Kenya,Nairobi,6300,KES,41,0716123456,
+CUST061,felix,Ouma,felix.o@email.com,Jul 01, 2023,Kenya,Nairobi,8100,KES,38,0721123456,25/08/2025
+CUST062,rachel,Mbabazi,rachel.m@email,11/08/2023,Rwanda,Kigali,180,$,25,250737123456,
+CUST063,abdul,Karim,abdul.k@email.com,14/09/2023,Tanzania,Dar es Salaam,155000,,40,+255719123456,24/08/2025
+CUST064,VICTOR,Munyao,victor.m@email.com,30/10/2024,KE,Nairobi,13500,Ksh,33,0737123456,
+CUST065,patricia,Nekesa,patricia.n@email.com,Nov 15, 2024,Kenya,Eldoret,3600,KES,27,0705123456,23/08/2025
+CUST066,ian,Katende,ian.k@mail.com,01/12/2024,Uganda,Kampala,210000,UGX,26,0779123456,
+CUST067,barbara,Shauri,barbara.s@email.com,Jan 20, 2025,Tanzania,Arusha,95000,TZS,42,+255758123456,22/08/2025
+CUST068,edwin,Lwanga,edwin.lwanga,25/02/2025,Uganda,Jinja,58000,Shs,39,0789123456,
+CUST069,doris,Maina,doris.m@email.com,Mar 10, 2025,Kenya,Nrb,4900,KES,26,0722123456,21/08/2025
+CUST070,patience,Kansiime,patience.k@email.com,18/04/2025,UG,Mbarara,72000,UGX,31,0757123456,
+CUST071,anthony,Kagwe,anthony.k@email.com,May 05, 2025,Kenya,Nairobi,11000,KES,55,0717123456,25/08/2025
+CUST072,beatrice,Auma,beatrice.a,30/06/2025,Uganda,Gulu,82000,UGX,23,0775123456,
+CUST073,joel,Hakizimana,joel.h@email.com,Jul 12, 2025,Rwanda,Kigali,220,USD,,250782123456,20/08/2025
+CUST074,gerald,Kimathi,gerald.k@email.com,01/08/2025,Kenya,Nairobi,18000,KES,48,0738123456,19/08/2025
+CUST075,lydia,Babirye,lydia.b@email.com,Aug 15, 2025,UG,Kampala,105000,Shs,36,0786123456,
+CUST076,calvin,Khamisi,calvin.k@email.com,16/01/2022,Tanzania,Dar es Salaam,98000,TZS,30,+255716123456,23/08/2025
+CUST077,tracy,Gitau,tracy.g@email.com,21/02/2022,Kenya,Nairobi,9100,Ksh,29,0723123456,
+CUST078,ronald,Mwesigwa,ronald.m@email,Mar 06, 2022,Uganda,Kla,62000,UGX,46,0758123456,24/08/2025
+CUST079,damaris,Wangui,damaris.w@work.net,11/04/2022,KE,Nairobi,5300,KES,33,0714123456,
+CUST080,SIMON,Ouma,simon.o@email.com,13/05/2022,Kenya,Nairobi,14000,KES,36,0739123456,21/08/2025
+CUST081,naomi,Akello,naomi.a@email.com,15/01/2022,Uganda,Gulu,89000,UGX,34,0771123456,20/08/2025
+CUST082,vincent,Koech,vincent.k@email.com,20/02/2022,Kenya,Eldoret,4100,KES,27,0706123456,
+CUST083,martha,Isingoma,martha.i@email,Mar 05, 2022,Uganda,Mbarara,73000,Shs,44,0787123456,15/07/2025
+CUST084,isaac,Shija,isaac.s@work.net,10/04/2022,Tanzania,Dar es Salaam,125000,TZS,31,+255759123456,
+CUST085,sharon,Adhiambo,sharon.a@email.com,12/05/2022,Kenya,Kisumu,5600,KES,37,0707123456,19/08/2025
+CUST051,samuel,Were,sam.w@email.com,15/01/2022,Kenya,Nairobi,9800,KES,35,0729123456,20/08/2025
+CUST086,phillip,Mboya,phillip.m@email.com,18/01/2023,Tanzania,Arusha,105000,TZS,21,+255711123456,18/08/2025
+CUST087,judith,Gashumba,judith-g@mail,22/02/2023,Rwanda,Kigali,260,$,51,250781123456,
+CUST088,nicholas,Wamalwa,nicholas.w@email.com,Apr 10, 2023,Kenya,Nairobi,7800,KES,28,0721123456,22/08/2025
+CUST089,hilda,Nakibuule,hilda.n@email.com,15/05/2023,uganda,Kmapala,94000,UGX,43,0759123456,
+CUST090,lucy,Onyango,lucy.o@email.com,20/06/2023,Kenya,Nairobi,6600,Ksh,40,0712123456,25/08/2025
+CUST091,martin,Kiiza,martin.k@email.com,Jul 01, 2023,Uganda,Kampala,135000,UGX,37,0772123456,
+CUST092,nancy,Mumbi,nancy.m@email,11/08/2023,Kenya,Nairobi,5900,KES,24,0731123456,24/08/2025
+CUST093,stanley,Kato,stanley.k@email.com,14/09/2023,Uganda,Kla,81000,,29,0782123456,
+CUST094,rose,Akinyi,rose.a@email.com,30/10/2024,Kenya,Kisumu,4400,KES,32,0708123456,23/08/2025
+CUST095,frank,Mwezi,frank.m@email.com,Nov 15, 2024,Tanzania,Dar es Salaam,145000,TZS,26,+255751123456,
+CUST096,hellen,Chepkwemoi,hellen.c@mail.com,01/12/2024,Kenya,Eldoret,3900,Ksh,29,0711123456,22/08/2025
+CUST097,solomon,Bimenyimana,solo.b@email.com,Jan 20, 2025,Rwanda,Kigali,240,USD,41,250783123456,
+CUST098,vivian,Wachira,vivian.w,25/02/2025,Kenya,Nairobi,7100,KES,38,0726123456,21/08/2025
+CUST099,yusuf,Ssekamatte,yusuf.s@email.com,Mar 10, 2025,UG,Kampala,112000,Shs,25,0751123456,
+CUST100,  cust100,Brenda,Oloo,brenda.oloo@email.com,18/04/2025,Kenya,Nairobi,6900,KES,30,0725123456,25/08/2025
